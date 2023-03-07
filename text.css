@@ -1,0 +1,32 @@
+body{
+    background: rgb(197, 197, 154);}
+
+h1{color: brown;}
+p{font-style: italic; color: rgb(30, 3, 3);font: 1em sans-serif;}
+h2{color: rgb(35, 48, 109);font-size: large; font-style: oblique;}
+h3{color: blueviolet; font-size: medium;}
+
+
+
+
+h4{font-size: xx-large; color: blue;
+     margin-left: 80%;}
+div{
+    text-align: center;
+    
+    margin-left: 80%;}
+
+   
+.logga {color: rgb(13, 58, 18);}
+
+
+
+    h6{ 
+        font-size: x-large;
+         color: blue; 
+        }
+
+
+    .social-icons { 
+      background-color: brown;
+        }
